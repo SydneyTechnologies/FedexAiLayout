@@ -1,0 +1,133 @@
+[
+    {
+        "id": "A2A08548-73E2-4ACC-A413-C0B93499A1EE",
+        "inTemplate": false,
+        "orderIndex": 4,
+        "stretch": true,
+        "wrap": false,
+        "kind": "SECTION",
+        "left": 0,
+        "top": 1672,
+        "width": 1878,
+        "height": 700,
+        "relIn": null,
+        "relTo": {
+            "id": "FC9CD543-BAF4-4F0B-B691-C47491987405",
+            "below": 0
+        },
+        "relPage": null,
+        "relPara": null,
+        "style": {
+            "border": null,
+            "background": {
+                "colorData": {
+                    "color": [
+                        "HSL",
+                        0.08558558558558559,
+                        0.15102040816326534,
+                        0.4803921568627451,
+                        0.3
+                    ],
+                    "gradient": null
+                },
+                "assetData": null
+            }
+        },
+        "mobileSettings": {
+            "size": "cover"
+        },
+        "pin": 0,
+        "title": "Section3",
+        "selectedTheme": "Main"
+    },
+    {
+        "id": "1C640E75-EEF6-4B5F-BBA9-35156F5AC423",
+        "inTemplate": false,
+        "orderIndex": 6,
+        "wrap": false,
+        "mobileDown": false,
+        "onHover": null,
+        "kind": "IMAGE",
+        "left": 470,
+        "top": 1672,
+        "width": 580,
+        "height": 700,
+        "relIn": {
+            "id": "A2A08548-73E2-4ACC-A413-C0B93499A1EE",
+            "top": 0,
+            "left": 470,
+            "right": null,
+            "bottom": 0
+        },
+        "relTo": null,
+        "relPage": null,
+        "relPara": null,
+        "title": "",
+        "scale": 0.3020833333333333,
+        "logoTitleScale": 1,
+        "rotation": 0,
+        "mobileHide": false,
+        "scaleStrategy": "crop",
+        "cropTop": 170,
+        "cropLeft": 0,
+        "asset": {
+            "alpha": null,
+            "animated": false,
+            "bpp": null,
+            "contentType": "image/jpeg",
+            "etag": "\"17b373-5fc848a46a261\"",
+            "filesize": 1553267,
+            "height": 2883,
+            "image": null,
+            "recommendedFormat": null,
+            "url": "repository:/design-universal-template-unsplash-vjlJBOedSWw.jpg",
+            "width": 1920
+        },
+        "style": null,
+        "linkAction": null,
+        "lightBoxEnabled": false,
+        "openLink": true,
+        "logoHorizontalAlignment": "left"
+    },
+    {
+        "id": "1C17CAAB-7721-468B-A96D-D2D1B3E37033",
+        "inTemplate": false,
+        "orderIndex": 7,
+        "wrap": false,
+        "mobileDown": false,
+        "onHover": null,
+        "kind": "TEXT",
+        "left": 0,
+        "top": 1722,
+        "width": 400,
+        "height": 600,
+        "relIn": {
+            "id": "A2A08548-73E2-4ACC-A413-C0B93499A1EE",
+            "top": 50,
+            "left": 0,
+            "right": null,
+            "bottom": -50
+        },
+        "relTo": null,
+        "relPage": null,
+        "relPara": null,
+        "verticalAlignment": "middle",
+        "mobileHide": false,
+        "mobileSettings": {
+            "align": null,
+            "font": 0
+        },
+        "content": "<p class=\"textheading2\" style=\"text-align: left;\"><span class=\"textheading2\">About Us</span></p>\n<p style=\"text-align: left;\"><br></p>\n<p style=\"text-align: left;\">Paragraphs are the main building blocks of web pages. To change what this one says, just double-click here or hit Edit text. You can change the style here, too. Of course, dragging the text will move the paragraph on the page.</p>\n<p style=\"text-align: left;\"><br></p>\n<p style=\"text-align: left;\">Paragraphs are the main building blocks of web pages. To change what this one says, just double-click here or hit Edit text. You can change the style here, too. Of course, dragging the text will move the paragraph on the page. One paragraph may be enough to introduce your project. If it gets too long, break up the text into several paragraphs. Long text is perfect for explaining what's unique about your website.</p>",
+        "text": "\n\n\n\n\n",
+        "styles": [],
+        "paras": [],
+        "links": [],
+        "themeOverrideColor": null,
+        "themeHighlightColor": null,
+        "themeShadowBlurRadius": 3,
+        "themeShadowColor": null,
+        "themeShadowOffsetX": 3,
+        "themeShadowOffsetY": 3,
+        "globalStyleId": "3163A11F-C780-41C5-B1D6-3B71DA0CFC9A"
+    }
+]

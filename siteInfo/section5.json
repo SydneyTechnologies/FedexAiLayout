@@ -1,0 +1,270 @@
+[
+  {
+    "id": "002A4A86-A797-43DC-B630-38180BE081C5",
+    "inTemplate": false,
+    "orderIndex": 2,
+    "stretch": true,
+    "wrap": false,
+    "kind": "SECTION",
+    "left": 0,
+    "top": 80,
+    "width": 1878,
+    "height": 487,
+    "relIn": null,
+    "relTo": {
+      "id": "E06B0244-3682-401B-8C55-DDCDD25ADC71",
+      "below": 0
+    },
+    "relPage": null,
+    "relPara": null,
+    "style": {
+      "border": null,
+      "background": {
+        "colorData": {
+          "color": ["HSL", 0.5644999999999936, 0, 0.16820000000000002, 1],
+          "gradient": null
+        },
+        "assetData": {
+          "asset": {
+            "alpha": null,
+            "animated": false,
+            "bpp": null,
+            "contentType": "image/jpeg",
+            "etag": "\"31343-5fc848a346a51\"",
+            "filesize": 201539,
+            "height": 1275,
+            "image": null,
+            "recommendedFormat": null,
+            "url": "repository:/design-universal-template-unsplash-fPcB3Km7PyE.jpg",
+            "width": 1920
+          },
+          "repeat": [false, false],
+          "position": ["50%", "50%"],
+          "size": "cover",
+          "scrollEffect": "parallax",
+          "opacity": 0.6
+        }
+      }
+    },
+    "mobileSettings": {
+      "size": "cover"
+    },
+    "pin": 0,
+    "title": "Section1",
+    "selectedTheme": "Black",
+    "selectedGradientTheme": null
+  },
+  {
+    "id": "F0A7FD1C-932B-446D-A267-91CAB109A107",
+    "kind": "BACKGROUND",
+    "top": 137,
+    "left": 80,
+    "width": 890,
+    "height": 365,
+    "orderIndex": 1,
+    "inTemplate": false,
+    "relTo": null,
+    "relIn": {
+      "id": "002A4A86-A797-43DC-B630-38180BE081C5",
+      "top": 57,
+      "left": 80,
+      "right": null,
+      "bottom": -65
+    },
+    "relPage": null,
+    "relPara": null,
+    "wrap": false,
+    "onHover": null,
+    "style": {
+      "background": {
+        "colorData": {
+          "color": ["HSL", 0.5645, 0, 1, 1],
+          "gradient": null
+        },
+        "assetData": null
+      },
+      "border": {
+        "style": null,
+        "corners": [0, 0, 0, 0]
+      }
+    },
+    "mobileSettings": {
+      "size": "cover"
+    },
+    "selectedTheme": "White"
+  },
+  {
+    "id": "D322AEA4-1D50-49FA-A76A-3F8030F9A5D4",
+    "inTemplate": false,
+    "orderIndex": 5,
+    "wrap": false,
+    "mobileDown": false,
+    "onHover": null,
+    "kind": "TEXT",
+    "left": 205,
+    "top": 180,
+    "width": 680,
+    "height": 154,
+    "relIn": {
+      "id": "F0A7FD1C-932B-446D-A267-91CAB109A107",
+      "top": 43,
+      "left": 125,
+      "right": -85,
+      "bottom": -168
+    },
+    "relTo": null,
+    "relPage": null,
+    "relPara": null,
+    "verticalAlignment": "bottom",
+    "mobileHide": false,
+    "mobileSettings": {
+      "align": null,
+      "font": 0
+    },
+    "content": "<p class=\"textheading1\" style=\"text-align: center;\"><span class=\"textheading1\"><span style=\"color: #ffffff;\">GREAT SERVICE AND EXPERTISE</span></span><span class=\"textnormal\"></span></p>",
+    "text": "GREAT SERVICE AND EXPERTISE",
+    "styles": [
+      [
+        0,
+        27,
+        {
+          "globalId": "91A770DE-E387-45BB-91F3-1643C4E1480A",
+          "globalName": "[heading.1]",
+          "color": ["HSL", 0, 0, 1, 1],
+          "type": "web.data.styles.StyleText"
+        }
+      ]
+    ],
+    "paras": [
+      [
+        0,
+        27,
+        {
+          "align": "center",
+          "type": "web.data.styles.StylePara"
+        }
+      ]
+    ],
+    "links": [],
+    "themeOverrideColor": null,
+    "themeHighlightColor": null,
+    "themeShadowBlurRadius": 3,
+    "themeShadowColor": null,
+    "themeShadowOffsetX": 3,
+    "themeShadowOffsetY": 3,
+    "globalStyleId": "3163A11F-C780-41C5-B1D6-3B71DA0CFC9A"
+  },
+  {
+    "id": "61B54415-9EF9-463E-A19D-266EBBA1BDE7",
+    "inTemplate": false,
+    "orderIndex": 11,
+    "wrap": false,
+    "mobileDown": false,
+    "onHover": null,
+    "kind": "TEXT",
+    "left": 170,
+    "top": 344,
+    "width": 750,
+    "height": 29,
+    "relIn": {
+      "id": "F0A7FD1C-932B-446D-A267-91CAB109A107",
+      "top": 207,
+      "left": 90,
+      "right": -50,
+      "bottom": -129
+    },
+    "relTo": {
+      "id": "D322AEA4-1D50-49FA-A76A-3F8030F9A5D4",
+      "below": 10
+    },
+    "relPage": null,
+    "relPara": null,
+    "verticalAlignment": "top",
+    "mobileHide": false,
+    "mobileSettings": {
+      "align": null,
+      "font": 0
+    },
+    "content": "<p class=\"textheading3\" style=\"text-align: center;\"><span class=\"textheading3\">Inspired by years of industry experience</span></p>",
+    "text": "Inspired by years of industry experience",
+    "styles": [
+      [
+        0,
+        40,
+        {
+          "globalId": "A67F9978-5B97-4E53-B282-01D774AEC9E6",
+          "globalName": "[heading.3]",
+          "type": "web.data.styles.StyleText"
+        }
+      ]
+    ],
+    "paras": [
+      [
+        0,
+        40,
+        {
+          "align": "center",
+          "type": "web.data.styles.StylePara"
+        }
+      ]
+    ],
+    "links": [],
+    "themeOverrideColor": null,
+    "themeHighlightColor": null,
+    "themeShadowBlurRadius": 3,
+    "themeShadowColor": null,
+    "themeShadowOffsetX": 3,
+    "themeShadowOffsetY": 3,
+    "globalStyleId": "3163A11F-C780-41C5-B1D6-3B71DA0CFC9A"
+  },
+  {
+    "id": "682C11A5-4078-4B9C-A0AF-338DD8BB8AA3",
+    "inTemplate": false,
+    "orderIndex": 8,
+    "wrap": false,
+    "mobileDown": false,
+    "onHover": null,
+    "kind": "BUTTON",
+    "left": 390,
+    "top": 403,
+    "width": 300,
+    "height": 60,
+    "relIn": {
+      "id": "F0A7FD1C-932B-446D-A267-91CAB109A107",
+      "top": 266,
+      "left": 310,
+      "right": -280,
+      "bottom": -39
+    },
+    "relTo": {
+      "id": "61B54415-9EF9-463E-A19D-266EBBA1BDE7",
+      "below": 30
+    },
+    "relPage": null,
+    "relPara": null,
+    "text": "Book a consultation",
+    "mobileHide": false,
+    "mobileSettings": {
+      "align": "justify"
+    },
+    "style": {
+      "globalId": "D0C8AC09-0EF1-4821-8586-2D70D3ED97B6",
+      "globalName": "[button.1]",
+      "type": "web.data.styles.StyleButton",
+      "text": {
+        "size": null
+      }
+    },
+    "linkAction": {
+      "link": {
+        "type": "sectionLink",
+        "value": {
+          "pageId": "19C05457-8E2A-43BC-B33D-0CBE7CC76DAD",
+          "sectionId": "EE7EF48E-7715-48FB-AD3A-576E36210922"
+        }
+      },
+      "openInNewWindow": false
+    },
+    "buttonThemeSelected": "primary"
+  }
+]

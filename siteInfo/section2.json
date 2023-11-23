@@ -1,0 +1,1512 @@
+[
+    {
+        "id": "FC9CD543-BAF4-4F0B-B691-C47491987405",
+        "inTemplate": false,
+        "orderIndex": 3,
+        "stretch": true,
+        "wrap": false,
+        "kind": "SECTION",
+        "left": 0,
+        "top": 840,
+        "width": 1878,
+        "height": 832,
+        "relIn": null,
+        "relTo": {
+            "id": "002A4A86-A797-43DC-B630-38180BE081C5",
+            "below": 0
+        },
+        "relPage": null,
+        "relPara": null,
+        "style": {
+            "border": null,
+            "background": {
+                "colorData": {
+                    "color": [
+                        "HSL",
+                        0,
+                        0,
+                        1,
+                        1
+                    ],
+                    "gradient": null
+                },
+                "assetData": null
+            }
+        },
+        "mobileSettings": {
+            "size": "cover"
+        },
+        "pin": 0,
+        "title": "Section2",
+        "selectedTheme": "White"
+    },
+    {
+        "id": "A62B6FE7-0C66-464F-B688-E5610FFA33AF",
+        "inTemplate": false,
+        "orderIndex": 3,
+        "wrap": false,
+        "mobileDown": false,
+        "onHover": null,
+        "kind": "TEXT",
+        "left": 0,
+        "top": 940,
+        "width": 1050,
+        "height": 56,
+        "relIn": {
+            "id": "FC9CD543-BAF4-4F0B-B691-C47491987405",
+            "top": 100,
+            "left": 0,
+            "right": null,
+            "bottom": -676
+        },
+        "relTo": null,
+        "relPage": null,
+        "relPara": null,
+        "verticalAlignment": "top",
+        "mobileHide": false,
+        "mobileSettings": {
+            "align": null,
+            "font": 0
+        },
+        "content": "<p class=\"textheading2\" style=\"text-align: center;\">Services Offered</p>",
+        "text": "",
+        "styles": [],
+        "paras": [],
+        "links": [],
+        "themeOverrideColor": null,
+        "themeHighlightColor": null,
+        "themeShadowBlurRadius": 3,
+        "themeShadowColor": null,
+        "themeShadowOffsetX": 3,
+        "themeShadowOffsetY": 3,
+        "globalStyleId": "3163A11F-C780-41C5-B1D6-3B71DA0CFC9A"
+    },
+    {
+        "id": "2B73F64F-C8F8-45FD-9633-22805EDFF377",
+        "inTemplate": false,
+        "orderIndex": 4,
+        "wrap": false,
+        "mobileDown": false,
+        "onHover": null,
+        "kind": "TEXT",
+        "left": 0,
+        "top": 1056,
+        "width": 310,
+        "height": 228,
+        "relIn": {
+            "id": "FC9CD543-BAF4-4F0B-B691-C47491987405",
+            "top": 216,
+            "left": 0,
+            "right": null,
+            "bottom": -388
+        },
+        "relTo": {
+            "id": "A62B6FE7-0C66-464F-B688-E5610FFA33AF",
+            "below": 60
+        },
+        "relPage": null,
+        "relPara": null,
+        "verticalAlignment": "top",
+        "mobileHide": false,
+        "mobileSettings": {
+            "align": null,
+            "font": 0
+        },
+        "content": "<div class=\"mceNonEditable center\" style=\"width: 50px;\">\n<div style=\"margin-left: auto; margin-right: auto; width: 50px; min-height: 50px; font-size: 0px;\" data-wrap-id=\"F60FE044-4CA5-4A36-AC51-828E09CD132D\"></div>\n</div>\n<p class=\"textheading3\" style=\"text-align: center;\"><span class=\"textheading3\"><br></span></p>\n<p class=\"textheading3\" style=\"text-align: center;\"><span class=\"textheading3\">Item Name</span></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\">Paragraphs are the main building blocks of web pages. To change what this one says, just double-click here or hit Edit text. You can change the style here, too.</p>",
+        "text": "\n\n\n\n\n",
+        "styles": [
+            [
+                1,
+                1,
+                {
+                    "globalId": "A67F9978-5B97-4E53-B282-01D774AEC9E6",
+                    "globalName": "[heading.3]",
+                    "type": "web.data.styles.StyleText"
+                }
+            ]
+        ],
+        "paras": [
+            [
+                1,
+                2,
+                {
+                    "align": "center",
+                    "type": "web.data.styles.StylePara"
+                }
+            ],
+            [
+                4,
+                5,
+                {
+                    "align": "center",
+                    "type": "web.data.styles.StylePara"
+                }
+            ]
+        ],
+        "links": [],
+        "themeOverrideColor": null,
+        "themeHighlightColor": null,
+        "themeShadowBlurRadius": 3,
+        "themeShadowColor": null,
+        "themeShadowOffsetX": 3,
+        "themeShadowOffsetY": 3,
+        "globalStyleId": "3163A11F-C780-41C5-B1D6-3B71DA0CFC9A"
+    },
+    {
+        "id": "F60FE044-4CA5-4A36-AC51-828E09CD132D",
+        "inTemplate": false,
+        "orderIndex": 5,
+        "wrap": true,
+        "mobileDown": false,
+        "onHover": null,
+        "kind": "SVG",
+        "left": 130,
+        "top": 1056,
+        "width": 50,
+        "height": 50,
+        "relIn": {
+            "id": "2B73F64F-C8F8-45FD-9633-22805EDFF377",
+            "top": 0,
+            "left": 130,
+            "right": -130,
+            "bottom": -178
+        },
+        "relTo": null,
+        "relPage": null,
+        "relPara": {
+            "index": 0,
+            "offset": 0
+        },
+        "asset": {
+            "alpha": null,
+            "animated": false,
+            "bpp": null,
+            "contentType": "image/svg",
+            "etag": "\"22e-5fc848b79e723\"",
+            "filesize": 558,
+            "height": 60,
+            "image": null,
+            "recommendedFormat": null,
+            "url": "repository:/repository-icon-squares-outlined-2.svg",
+            "width": 60
+        },
+        "colors": [
+            {
+                "fromColor": "rgba(0,0,0,1)",
+                "toColor": "#8d7b68",
+                "toThemeColor": "mainColor"
+            },
+            {
+                "fromColor": "rgba(255,255,255,1)",
+                "toColor": "rgba(255,255,255,1)"
+            }
+        ],
+        "defaultFillColor": "rgba(0,0,0,1)",
+        "linkAction": null,
+        "opacity": 100,
+        "seo": "",
+        "rawSvg": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_21_40)\">\n<circle cx=\"30\" cy=\"30\" r=\"29\" stroke=\"black\" stroke-width=\"2\"/>\n<rect x=\"16\" y=\"16\" width=\"12\" height=\"12\" rx=\"1\" stroke=\"black\" stroke-width=\"2\"/>\n<rect x=\"16\" y=\"32\" width=\"12\" height=\"12\" rx=\"1\" stroke=\"black\" stroke-width=\"2\"/>\n<rect x=\"32\" y=\"32\" width=\"12\" height=\"12\" rx=\"1\" stroke=\"black\" stroke-width=\"2\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_21_40\">\n<rect width=\"60\" height=\"60\" fill=\"white\"/>\n</clipPath>\n</defs>\n</svg>\n",
+        "useOriginalColors": false,
+        "svgJson": {
+            "name": "svg",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "width": "60",
+                "height": "60",
+                "viewBox": "0 0 60 60",
+                "fill": "none",
+                "xmlns": "http://www.w3.org/2000/svg"
+            },
+            "children": [
+                {
+                    "name": "g",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "clip-path": "url(#clip0_21_40)"
+                    },
+                    "children": [
+                        {
+                            "name": "circle",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "cx": "30",
+                                "cy": "30",
+                                "r": "29",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "rect",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "x": "16",
+                                "y": "16",
+                                "width": "12",
+                                "height": "12",
+                                "rx": "1",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "rect",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "x": "16",
+                                "y": "32",
+                                "width": "12",
+                                "height": "12",
+                                "rx": "1",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "rect",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "x": "32",
+                                "y": "32",
+                                "width": "12",
+                                "height": "12",
+                                "rx": "1",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "defs",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {},
+                    "children": [
+                        {
+                            "name": "clipPath",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "id": "clip0_21_40"
+                            },
+                            "children": [
+                                {
+                                    "name": "rect",
+                                    "type": "element",
+                                    "value": "",
+                                    "attributes": {
+                                        "width": "60",
+                                        "height": "60",
+                                        "fill": "white"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "8120325B-AB5D-4D0C-8102-7BDE66578479",
+        "inTemplate": false,
+        "orderIndex": 28,
+        "wrap": false,
+        "mobileDown": false,
+        "onHover": null,
+        "kind": "TEXT",
+        "left": 740,
+        "top": 1056,
+        "width": 310,
+        "height": 228,
+        "relIn": {
+            "id": "FC9CD543-BAF4-4F0B-B691-C47491987405",
+            "top": 216,
+            "left": 740,
+            "right": null,
+            "bottom": -388
+        },
+        "relTo": {
+            "id": "A62B6FE7-0C66-464F-B688-E5610FFA33AF",
+            "below": 60
+        },
+        "relPage": null,
+        "relPara": null,
+        "verticalAlignment": "top",
+        "mobileHide": false,
+        "mobileSettings": {
+            "align": null,
+            "font": 0
+        },
+        "content": "<div class=\"mceNonEditable center\" style=\"width: 50px;\">\n<div style=\"margin-left: auto; margin-right: auto; width: 50px; min-height: 50px; font-size: 0px;\" data-wrap-id=\"9885F01A-BFCC-44BB-9052-8FA3CE4AC22E\"></div>\n</div>\n<p class=\"textheading3\" style=\"text-align: center;\"><span class=\"textheading3\"><br></span></p>\n<p class=\"textheading3\" style=\"text-align: center;\"><span class=\"textheading3\">Item Name</span></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\">Paragraphs are the main building blocks of web pages. To change what this one says, just double-click here or hit Edit text. You can change the style here, too.</p>",
+        "text": "\n\n\n\n\n",
+        "styles": [
+            [
+                1,
+                1,
+                {
+                    "globalId": "A67F9978-5B97-4E53-B282-01D774AEC9E6",
+                    "globalName": "[heading.3]",
+                    "type": "web.data.styles.StyleText"
+                }
+            ]
+        ],
+        "paras": [
+            [
+                1,
+                2,
+                {
+                    "align": "center",
+                    "type": "web.data.styles.StylePara"
+                }
+            ],
+            [
+                4,
+                5,
+                {
+                    "align": "center",
+                    "type": "web.data.styles.StylePara"
+                }
+            ]
+        ],
+        "links": [],
+        "themeOverrideColor": null,
+        "themeHighlightColor": null,
+        "themeShadowBlurRadius": 3,
+        "themeShadowColor": null,
+        "themeShadowOffsetX": 3,
+        "themeShadowOffsetY": 3,
+        "globalStyleId": "3163A11F-C780-41C5-B1D6-3B71DA0CFC9A"
+    },
+    {
+        "id": "9885F01A-BFCC-44BB-9052-8FA3CE4AC22E",
+        "inTemplate": false,
+        "orderIndex": 31,
+        "wrap": true,
+        "mobileDown": false,
+        "onHover": null,
+        "kind": "SVG",
+        "left": 870,
+        "top": 1056,
+        "width": 50,
+        "height": 50,
+        "relIn": {
+            "id": "8120325B-AB5D-4D0C-8102-7BDE66578479",
+            "top": 0,
+            "left": 130,
+            "right": -130,
+            "bottom": -178
+        },
+        "relTo": null,
+        "relPage": null,
+        "relPara": {
+            "index": 0,
+            "offset": 0
+        },
+        "asset": {
+            "alpha": null,
+            "animated": false,
+            "bpp": null,
+            "contentType": "image/svg",
+            "etag": "\"22e-5fc848b79e723\"",
+            "filesize": 558,
+            "height": 60,
+            "image": null,
+            "recommendedFormat": null,
+            "url": "repository:/repository-icon-squares-outlined-2.svg",
+            "width": 60
+        },
+        "colors": [
+            {
+                "fromColor": "rgba(0,0,0,1)",
+                "toColor": "#8d7b68",
+                "toThemeColor": "mainColor"
+            },
+            {
+                "fromColor": "rgba(255,255,255,1)",
+                "toColor": "rgba(255,255,255,1)"
+            }
+        ],
+        "defaultFillColor": "rgba(0,0,0,1)",
+        "linkAction": null,
+        "opacity": 100,
+        "seo": "",
+        "rawSvg": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_21_40)\">\n<circle cx=\"30\" cy=\"30\" r=\"29\" stroke=\"black\" stroke-width=\"2\"/>\n<rect x=\"16\" y=\"16\" width=\"12\" height=\"12\" rx=\"1\" stroke=\"black\" stroke-width=\"2\"/>\n<rect x=\"16\" y=\"32\" width=\"12\" height=\"12\" rx=\"1\" stroke=\"black\" stroke-width=\"2\"/>\n<rect x=\"32\" y=\"32\" width=\"12\" height=\"12\" rx=\"1\" stroke=\"black\" stroke-width=\"2\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_21_40\">\n<rect width=\"60\" height=\"60\" fill=\"white\"/>\n</clipPath>\n</defs>\n</svg>\n",
+        "useOriginalColors": false,
+        "svgJson": {
+            "name": "svg",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "width": "60",
+                "height": "60",
+                "viewBox": "0 0 60 60",
+                "fill": "none",
+                "xmlns": "http://www.w3.org/2000/svg"
+            },
+            "children": [
+                {
+                    "name": "g",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "clip-path": "url(#clip0_21_40)"
+                    },
+                    "children": [
+                        {
+                            "name": "circle",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "cx": "30",
+                                "cy": "30",
+                                "r": "29",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "rect",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "x": "16",
+                                "y": "16",
+                                "width": "12",
+                                "height": "12",
+                                "rx": "1",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "rect",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "x": "16",
+                                "y": "32",
+                                "width": "12",
+                                "height": "12",
+                                "rx": "1",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "rect",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "x": "32",
+                                "y": "32",
+                                "width": "12",
+                                "height": "12",
+                                "rx": "1",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "defs",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {},
+                    "children": [
+                        {
+                            "name": "clipPath",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "id": "clip0_21_40"
+                            },
+                            "children": [
+                                {
+                                    "name": "rect",
+                                    "type": "element",
+                                    "value": "",
+                                    "attributes": {
+                                        "width": "60",
+                                        "height": "60",
+                                        "fill": "white"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "648B3AF1-AE2D-4CE6-9584-4AD330924CA7",
+        "inTemplate": false,
+        "orderIndex": 29,
+        "wrap": false,
+        "mobileDown": false,
+        "onHover": null,
+        "kind": "TEXT",
+        "left": 370,
+        "top": 1056,
+        "width": 310,
+        "height": 228,
+        "relIn": {
+            "id": "FC9CD543-BAF4-4F0B-B691-C47491987405",
+            "top": 216,
+            "left": 370,
+            "right": null,
+            "bottom": -388
+        },
+        "relTo": {
+            "id": "A62B6FE7-0C66-464F-B688-E5610FFA33AF",
+            "below": 60
+        },
+        "relPage": null,
+        "relPara": null,
+        "verticalAlignment": "top",
+        "mobileHide": false,
+        "mobileSettings": {
+            "align": null,
+            "font": 0
+        },
+        "content": "<div class=\"mceNonEditable center\" style=\"width: 50px;\">\n<div style=\"margin-left: auto; margin-right: auto; width: 50px; min-height: 50px; font-size: 0px;\" data-wrap-id=\"A2606E59-E332-415B-8AA0-932663615E07\"></div>\n</div>\n<p class=\"textheading3\" style=\"text-align: center;\"><span class=\"textheading3\"><br></span></p>\n<p class=\"textheading3\" style=\"text-align: center;\"><span class=\"textheading3\">Item Name</span></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\">Paragraphs are the main building blocks of web pages. To change what this one says, just double-click here or hit Edit text. You can change the style here, too.</p>",
+        "text": "\n\n\n\n\n",
+        "styles": [
+            [
+                1,
+                1,
+                {
+                    "globalId": "A67F9978-5B97-4E53-B282-01D774AEC9E6",
+                    "globalName": "[heading.3]",
+                    "type": "web.data.styles.StyleText"
+                }
+            ]
+        ],
+        "paras": [
+            [
+                1,
+                2,
+                {
+                    "align": "center",
+                    "type": "web.data.styles.StylePara"
+                }
+            ],
+            [
+                4,
+                5,
+                {
+                    "align": "center",
+                    "type": "web.data.styles.StylePara"
+                }
+            ]
+        ],
+        "links": [],
+        "themeOverrideColor": null,
+        "themeHighlightColor": null,
+        "themeShadowBlurRadius": 3,
+        "themeShadowColor": null,
+        "themeShadowOffsetX": 3,
+        "themeShadowOffsetY": 3,
+        "globalStyleId": "3163A11F-C780-41C5-B1D6-3B71DA0CFC9A"
+    },
+    {
+        "id": "A2606E59-E332-415B-8AA0-932663615E07",
+        "inTemplate": false,
+        "orderIndex": 30,
+        "wrap": true,
+        "mobileDown": false,
+        "onHover": null,
+        "kind": "SVG",
+        "left": 500,
+        "top": 1056,
+        "width": 50,
+        "height": 50,
+        "relIn": {
+            "id": "648B3AF1-AE2D-4CE6-9584-4AD330924CA7",
+            "top": 0,
+            "left": 130,
+            "right": -130,
+            "bottom": -178
+        },
+        "relTo": null,
+        "relPage": null,
+        "relPara": {
+            "index": 0,
+            "offset": 0
+        },
+        "asset": {
+            "alpha": null,
+            "animated": false,
+            "bpp": null,
+            "contentType": "image/svg",
+            "etag": "\"22e-5fc848b79e723\"",
+            "filesize": 558,
+            "height": 60,
+            "image": null,
+            "recommendedFormat": null,
+            "url": "repository:/repository-icon-squares-outlined-2.svg",
+            "width": 60
+        },
+        "colors": [
+            {
+                "fromColor": "rgba(0,0,0,1)",
+                "toColor": "#8d7b68",
+                "toThemeColor": "mainColor"
+            },
+            {
+                "fromColor": "rgba(255,255,255,1)",
+                "toColor": "rgba(255,255,255,1)"
+            }
+        ],
+        "defaultFillColor": "rgba(0,0,0,1)",
+        "linkAction": null,
+        "opacity": 100,
+        "seo": "",
+        "rawSvg": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_21_40)\">\n<circle cx=\"30\" cy=\"30\" r=\"29\" stroke=\"black\" stroke-width=\"2\"/>\n<rect x=\"16\" y=\"16\" width=\"12\" height=\"12\" rx=\"1\" stroke=\"black\" stroke-width=\"2\"/>\n<rect x=\"16\" y=\"32\" width=\"12\" height=\"12\" rx=\"1\" stroke=\"black\" stroke-width=\"2\"/>\n<rect x=\"32\" y=\"32\" width=\"12\" height=\"12\" rx=\"1\" stroke=\"black\" stroke-width=\"2\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_21_40\">\n<rect width=\"60\" height=\"60\" fill=\"white\"/>\n</clipPath>\n</defs>\n</svg>\n",
+        "useOriginalColors": false,
+        "svgJson": {
+            "name": "svg",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "width": "60",
+                "height": "60",
+                "viewBox": "0 0 60 60",
+                "fill": "none",
+                "xmlns": "http://www.w3.org/2000/svg"
+            },
+            "children": [
+                {
+                    "name": "g",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "clip-path": "url(#clip0_21_40)"
+                    },
+                    "children": [
+                        {
+                            "name": "circle",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "cx": "30",
+                                "cy": "30",
+                                "r": "29",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "rect",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "x": "16",
+                                "y": "16",
+                                "width": "12",
+                                "height": "12",
+                                "rx": "1",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "rect",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "x": "16",
+                                "y": "32",
+                                "width": "12",
+                                "height": "12",
+                                "rx": "1",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "rect",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "x": "32",
+                                "y": "32",
+                                "width": "12",
+                                "height": "12",
+                                "rx": "1",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "defs",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {},
+                    "children": [
+                        {
+                            "name": "clipPath",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "id": "clip0_21_40"
+                            },
+                            "children": [
+                                {
+                                    "name": "rect",
+                                    "type": "element",
+                                    "value": "",
+                                    "attributes": {
+                                        "width": "60",
+                                        "height": "60",
+                                        "fill": "white"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "38DA166E-1A7A-4BAE-B833-5324986303AA",
+        "inTemplate": false,
+        "orderIndex": 32,
+        "wrap": false,
+        "mobileDown": false,
+        "onHover": null,
+        "kind": "TEXT",
+        "left": 0,
+        "top": 1344,
+        "width": 310,
+        "height": 228,
+        "relIn": {
+            "id": "FC9CD543-BAF4-4F0B-B691-C47491987405",
+            "top": 504,
+            "left": 0,
+            "right": null,
+            "bottom": -100
+        },
+        "relTo": {
+            "id": "2B73F64F-C8F8-45FD-9633-22805EDFF377",
+            "below": 60
+        },
+        "relPage": null,
+        "relPara": null,
+        "verticalAlignment": "top",
+        "mobileHide": false,
+        "mobileSettings": {
+            "align": null,
+            "font": 0
+        },
+        "content": "<div class=\"mceNonEditable center\" style=\"width: 50px;\">\n<div style=\"margin-left: auto; margin-right: auto; width: 50px; min-height: 50px; font-size: 0px;\" data-wrap-id=\"956A6DD5-C0F3-4352-8C2D-891B1BDC984A\"></div>\n</div>\n<p class=\"textheading3\" style=\"text-align: center;\"><span class=\"textheading3\"><br></span></p>\n<p class=\"textheading3\" style=\"text-align: center;\"><span class=\"textheading3\">Item Name</span></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\">Paragraphs are the main building blocks of web pages. To change what this one says, just double-click here or hit Edit text. You can change the style here, too.</p>",
+        "text": "\n\n\n\n\n",
+        "styles": [
+            [
+                1,
+                1,
+                {
+                    "globalId": "A67F9978-5B97-4E53-B282-01D774AEC9E6",
+                    "globalName": "[heading.3]",
+                    "type": "web.data.styles.StyleText"
+                }
+            ]
+        ],
+        "paras": [
+            [
+                1,
+                2,
+                {
+                    "align": "center",
+                    "type": "web.data.styles.StylePara"
+                }
+            ],
+            [
+                4,
+                5,
+                {
+                    "align": "center",
+                    "type": "web.data.styles.StylePara"
+                }
+            ]
+        ],
+        "links": [],
+        "themeOverrideColor": null,
+        "themeHighlightColor": null,
+        "themeShadowBlurRadius": 3,
+        "themeShadowColor": null,
+        "themeShadowOffsetX": 3,
+        "themeShadowOffsetY": 3,
+        "globalStyleId": "3163A11F-C780-41C5-B1D6-3B71DA0CFC9A"
+    },
+    {
+        "id": "956A6DD5-C0F3-4352-8C2D-891B1BDC984A",
+        "inTemplate": false,
+        "orderIndex": 33,
+        "wrap": true,
+        "mobileDown": false,
+        "onHover": null,
+        "kind": "SVG",
+        "left": 130,
+        "top": 1344,
+        "width": 50,
+        "height": 50,
+        "relIn": {
+            "id": "38DA166E-1A7A-4BAE-B833-5324986303AA",
+            "top": 0,
+            "left": 130,
+            "right": -130,
+            "bottom": -178
+        },
+        "relTo": null,
+        "relPage": null,
+        "relPara": {
+            "index": 0,
+            "offset": 0
+        },
+        "asset": {
+            "alpha": null,
+            "animated": false,
+            "bpp": null,
+            "contentType": "image/svg",
+            "etag": "\"22e-5fc848b79e723\"",
+            "filesize": 558,
+            "height": 60,
+            "image": null,
+            "recommendedFormat": null,
+            "url": "repository:/repository-icon-squares-outlined-2.svg",
+            "width": 60
+        },
+        "colors": [
+            {
+                "fromColor": "rgba(0,0,0,1)",
+                "toColor": "#8d7b68",
+                "toThemeColor": "mainColor"
+            },
+            {
+                "fromColor": "rgba(255,255,255,1)",
+                "toColor": "rgba(255,255,255,1)"
+            }
+        ],
+        "defaultFillColor": "rgba(0,0,0,1)",
+        "linkAction": null,
+        "opacity": 100,
+        "seo": "",
+        "rawSvg": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_21_40)\">\n<circle cx=\"30\" cy=\"30\" r=\"29\" stroke=\"black\" stroke-width=\"2\"/>\n<rect x=\"16\" y=\"16\" width=\"12\" height=\"12\" rx=\"1\" stroke=\"black\" stroke-width=\"2\"/>\n<rect x=\"16\" y=\"32\" width=\"12\" height=\"12\" rx=\"1\" stroke=\"black\" stroke-width=\"2\"/>\n<rect x=\"32\" y=\"32\" width=\"12\" height=\"12\" rx=\"1\" stroke=\"black\" stroke-width=\"2\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_21_40\">\n<rect width=\"60\" height=\"60\" fill=\"white\"/>\n</clipPath>\n</defs>\n</svg>\n",
+        "useOriginalColors": false,
+        "svgJson": {
+            "name": "svg",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "width": "60",
+                "height": "60",
+                "viewBox": "0 0 60 60",
+                "fill": "none",
+                "xmlns": "http://www.w3.org/2000/svg"
+            },
+            "children": [
+                {
+                    "name": "g",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "clip-path": "url(#clip0_21_40)"
+                    },
+                    "children": [
+                        {
+                            "name": "circle",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "cx": "30",
+                                "cy": "30",
+                                "r": "29",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "rect",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "x": "16",
+                                "y": "16",
+                                "width": "12",
+                                "height": "12",
+                                "rx": "1",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "rect",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "x": "16",
+                                "y": "32",
+                                "width": "12",
+                                "height": "12",
+                                "rx": "1",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "rect",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "x": "32",
+                                "y": "32",
+                                "width": "12",
+                                "height": "12",
+                                "rx": "1",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "defs",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {},
+                    "children": [
+                        {
+                            "name": "clipPath",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "id": "clip0_21_40"
+                            },
+                            "children": [
+                                {
+                                    "name": "rect",
+                                    "type": "element",
+                                    "value": "",
+                                    "attributes": {
+                                        "width": "60",
+                                        "height": "60",
+                                        "fill": "white"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "1F46DCA9-3A0A-42C1-8210-9975C970A7EF",
+        "inTemplate": false,
+        "orderIndex": 34,
+        "wrap": false,
+        "mobileDown": false,
+        "onHover": null,
+        "kind": "TEXT",
+        "left": 740,
+        "top": 1344,
+        "width": 310,
+        "height": 228,
+        "relIn": {
+            "id": "FC9CD543-BAF4-4F0B-B691-C47491987405",
+            "top": 504,
+            "left": 740,
+            "right": null,
+            "bottom": -100
+        },
+        "relTo": {
+            "id": "8120325B-AB5D-4D0C-8102-7BDE66578479",
+            "below": 60
+        },
+        "relPage": null,
+        "relPara": null,
+        "verticalAlignment": "top",
+        "mobileHide": false,
+        "mobileSettings": {
+            "align": null,
+            "font": 0
+        },
+        "content": "<div class=\"mceNonEditable center\" style=\"width: 50px;\">\n<div style=\"margin-left: auto; margin-right: auto; width: 50px; min-height: 50px; font-size: 0px;\" data-wrap-id=\"AC5F628D-74F8-4086-987C-530C79174732\"></div>\n</div>\n<p class=\"textheading3\" style=\"text-align: center;\"><span class=\"textheading3\"><br></span></p>\n<p class=\"textheading3\" style=\"text-align: center;\"><span class=\"textheading3\">Item Name</span></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\">Paragraphs are the main building blocks of web pages. To change what this one says, just double-click here or hit Edit text. You can change the style here, too.</p>",
+        "text": "\n\n\n\n\n",
+        "styles": [
+            [
+                1,
+                1,
+                {
+                    "globalId": "A67F9978-5B97-4E53-B282-01D774AEC9E6",
+                    "globalName": "[heading.3]",
+                    "type": "web.data.styles.StyleText"
+                }
+            ]
+        ],
+        "paras": [
+            [
+                1,
+                2,
+                {
+                    "align": "center",
+                    "type": "web.data.styles.StylePara"
+                }
+            ],
+            [
+                4,
+                5,
+                {
+                    "align": "center",
+                    "type": "web.data.styles.StylePara"
+                }
+            ]
+        ],
+        "links": [],
+        "themeOverrideColor": null,
+        "themeHighlightColor": null,
+        "themeShadowBlurRadius": 3,
+        "themeShadowColor": null,
+        "themeShadowOffsetX": 3,
+        "themeShadowOffsetY": 3,
+        "globalStyleId": "3163A11F-C780-41C5-B1D6-3B71DA0CFC9A"
+    },
+    {
+        "id": "13D38871-7839-464A-B83B-1132E6A94B5A",
+        "inTemplate": false,
+        "orderIndex": 35,
+        "wrap": false,
+        "mobileDown": false,
+        "onHover": null,
+        "kind": "TEXT",
+        "left": 370,
+        "top": 1344,
+        "width": 310,
+        "height": 228,
+        "relIn": {
+            "id": "FC9CD543-BAF4-4F0B-B691-C47491987405",
+            "top": 504,
+            "left": 370,
+            "right": null,
+            "bottom": -100
+        },
+        "relTo": {
+            "id": "648B3AF1-AE2D-4CE6-9584-4AD330924CA7",
+            "below": 60
+        },
+        "relPage": null,
+        "relPara": null,
+        "verticalAlignment": "top",
+        "mobileHide": false,
+        "mobileSettings": {
+            "align": null,
+            "font": 0
+        },
+        "content": "<div class=\"mceNonEditable center\" style=\"width: 50px;\">\n<div style=\"margin-left: auto; margin-right: auto; width: 50px; min-height: 50px; font-size: 0px;\" data-wrap-id=\"86F2B830-1C2D-476D-9947-31809BA61E36\"></div>\n</div>\n<p class=\"textheading3\" style=\"text-align: center;\"><span class=\"textheading3\"><br></span></p>\n<p class=\"textheading3\" style=\"text-align: center;\"><span class=\"textheading3\">Item Name</span></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\">Paragraphs are the main building blocks of web pages. To change what this one says, just double-click here or hit Edit text. You can change the style here, too.</p>",
+        "text": "\n\n\n\n\n",
+        "styles": [
+            [
+                1,
+                1,
+                {
+                    "globalId": "A67F9978-5B97-4E53-B282-01D774AEC9E6",
+                    "globalName": "[heading.3]",
+                    "type": "web.data.styles.StyleText"
+                }
+            ]
+        ],
+        "paras": [
+            [
+                1,
+                2,
+                {
+                    "align": "center",
+                    "type": "web.data.styles.StylePara"
+                }
+            ],
+            [
+                4,
+                5,
+                {
+                    "align": "center",
+                    "type": "web.data.styles.StylePara"
+                }
+            ]
+        ],
+        "links": [],
+        "themeOverrideColor": null,
+        "themeHighlightColor": null,
+        "themeShadowBlurRadius": 3,
+        "themeShadowColor": null,
+        "themeShadowOffsetX": 3,
+        "themeShadowOffsetY": 3,
+        "globalStyleId": "3163A11F-C780-41C5-B1D6-3B71DA0CFC9A"
+    },
+    {
+        "id": "86F2B830-1C2D-476D-9947-31809BA61E36",
+        "inTemplate": false,
+        "orderIndex": 36,
+        "wrap": true,
+        "mobileDown": false,
+        "onHover": null,
+        "kind": "SVG",
+        "left": 500,
+        "top": 1344,
+        "width": 50,
+        "height": 50,
+        "relIn": {
+            "id": "13D38871-7839-464A-B83B-1132E6A94B5A",
+            "top": 0,
+            "left": 130,
+            "right": -130,
+            "bottom": -178
+        },
+        "relTo": null,
+        "relPage": null,
+        "relPara": {
+            "index": 0,
+            "offset": 0
+        },
+        "asset": {
+            "alpha": null,
+            "animated": false,
+            "bpp": null,
+            "contentType": "image/svg",
+            "etag": "\"22e-5fc848b79e723\"",
+            "filesize": 558,
+            "height": 60,
+            "image": null,
+            "recommendedFormat": null,
+            "url": "repository:/repository-icon-squares-outlined-2.svg",
+            "width": 60
+        },
+        "colors": [
+            {
+                "fromColor": "rgba(0,0,0,1)",
+                "toColor": "#8d7b68",
+                "toThemeColor": "mainColor"
+            },
+            {
+                "fromColor": "rgba(255,255,255,1)",
+                "toColor": "rgba(255,255,255,1)"
+            }
+        ],
+        "defaultFillColor": "rgba(0,0,0,1)",
+        "linkAction": null,
+        "opacity": 100,
+        "seo": "",
+        "rawSvg": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_21_40)\">\n<circle cx=\"30\" cy=\"30\" r=\"29\" stroke=\"black\" stroke-width=\"2\"/>\n<rect x=\"16\" y=\"16\" width=\"12\" height=\"12\" rx=\"1\" stroke=\"black\" stroke-width=\"2\"/>\n<rect x=\"16\" y=\"32\" width=\"12\" height=\"12\" rx=\"1\" stroke=\"black\" stroke-width=\"2\"/>\n<rect x=\"32\" y=\"32\" width=\"12\" height=\"12\" rx=\"1\" stroke=\"black\" stroke-width=\"2\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_21_40\">\n<rect width=\"60\" height=\"60\" fill=\"white\"/>\n</clipPath>\n</defs>\n</svg>\n",
+        "useOriginalColors": false,
+        "svgJson": {
+            "name": "svg",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "width": "60",
+                "height": "60",
+                "viewBox": "0 0 60 60",
+                "fill": "none",
+                "xmlns": "http://www.w3.org/2000/svg"
+            },
+            "children": [
+                {
+                    "name": "g",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "clip-path": "url(#clip0_21_40)"
+                    },
+                    "children": [
+                        {
+                            "name": "circle",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "cx": "30",
+                                "cy": "30",
+                                "r": "29",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "rect",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "x": "16",
+                                "y": "16",
+                                "width": "12",
+                                "height": "12",
+                                "rx": "1",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "rect",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "x": "16",
+                                "y": "32",
+                                "width": "12",
+                                "height": "12",
+                                "rx": "1",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "rect",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "x": "32",
+                                "y": "32",
+                                "width": "12",
+                                "height": "12",
+                                "rx": "1",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "defs",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {},
+                    "children": [
+                        {
+                            "name": "clipPath",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "id": "clip0_21_40"
+                            },
+                            "children": [
+                                {
+                                    "name": "rect",
+                                    "type": "element",
+                                    "value": "",
+                                    "attributes": {
+                                        "width": "60",
+                                        "height": "60",
+                                        "fill": "white"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "AC5F628D-74F8-4086-987C-530C79174732",
+        "inTemplate": false,
+        "orderIndex": 37,
+        "wrap": true,
+        "mobileDown": false,
+        "onHover": null,
+        "kind": "SVG",
+        "left": 870,
+        "top": 1344,
+        "width": 50,
+        "height": 50,
+        "relIn": {
+            "id": "1F46DCA9-3A0A-42C1-8210-9975C970A7EF",
+            "top": 0,
+            "left": 130,
+            "right": -130,
+            "bottom": -178
+        },
+        "relTo": null,
+        "relPage": null,
+        "relPara": {
+            "index": 0,
+            "offset": 0
+        },
+        "asset": {
+            "alpha": null,
+            "animated": false,
+            "bpp": null,
+            "contentType": "image/svg",
+            "etag": "\"22e-5fc848b79e723\"",
+            "filesize": 558,
+            "height": 60,
+            "image": null,
+            "recommendedFormat": null,
+            "url": "repository:/repository-icon-squares-outlined-2.svg",
+            "width": 60
+        },
+        "colors": [
+            {
+                "fromColor": "rgba(0,0,0,1)",
+                "toColor": "#8d7b68",
+                "toThemeColor": "mainColor"
+            },
+            {
+                "fromColor": "rgba(255,255,255,1)",
+                "toColor": "rgba(255,255,255,1)"
+            }
+        ],
+        "defaultFillColor": "rgba(0,0,0,1)",
+        "linkAction": null,
+        "opacity": 100,
+        "seo": "",
+        "rawSvg": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_21_40)\">\n<circle cx=\"30\" cy=\"30\" r=\"29\" stroke=\"black\" stroke-width=\"2\"/>\n<rect x=\"16\" y=\"16\" width=\"12\" height=\"12\" rx=\"1\" stroke=\"black\" stroke-width=\"2\"/>\n<rect x=\"16\" y=\"32\" width=\"12\" height=\"12\" rx=\"1\" stroke=\"black\" stroke-width=\"2\"/>\n<rect x=\"32\" y=\"32\" width=\"12\" height=\"12\" rx=\"1\" stroke=\"black\" stroke-width=\"2\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_21_40\">\n<rect width=\"60\" height=\"60\" fill=\"white\"/>\n</clipPath>\n</defs>\n</svg>\n",
+        "useOriginalColors": false,
+        "svgJson": {
+            "name": "svg",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "width": "60",
+                "height": "60",
+                "viewBox": "0 0 60 60",
+                "fill": "none",
+                "xmlns": "http://www.w3.org/2000/svg"
+            },
+            "children": [
+                {
+                    "name": "g",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "clip-path": "url(#clip0_21_40)"
+                    },
+                    "children": [
+                        {
+                            "name": "circle",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "cx": "30",
+                                "cy": "30",
+                                "r": "29",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "rect",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "x": "16",
+                                "y": "16",
+                                "width": "12",
+                                "height": "12",
+                                "rx": "1",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "rect",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "x": "16",
+                                "y": "32",
+                                "width": "12",
+                                "height": "12",
+                                "rx": "1",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "rect",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "x": "32",
+                                "y": "32",
+                                "width": "12",
+                                "height": "12",
+                                "rx": "1",
+                                "stroke": "black",
+                                "stroke-width": "2"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "defs",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {},
+                    "children": [
+                        {
+                            "name": "clipPath",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "id": "clip0_21_40"
+                            },
+                            "children": [
+                                {
+                                    "name": "rect",
+                                    "type": "element",
+                                    "value": "",
+                                    "attributes": {
+                                        "width": "60",
+                                        "height": "60",
+                                        "fill": "white"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]

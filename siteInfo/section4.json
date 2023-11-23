@@ -1,0 +1,500 @@
+[
+    {
+        "id": "EE7EF48E-7715-48FB-AD3A-576E36210922",
+        "inTemplate": false,
+        "orderIndex": 7,
+        "stretch": true,
+        "wrap": false,
+        "kind": "SECTION",
+        "left": 0,
+        "top": 3410,
+        "width": 1878,
+        "height": 1133,
+        "relIn": null,
+        "relTo": {
+            "id": "826CA4B3-2D0B-4396-A49B-8DC057BFA305",
+            "below": 0
+        },
+        "relPage": null,
+        "relPara": null,
+        "style": {
+            "border": null,
+            "background": {
+                "colorData": {
+                    "color": [
+                        "HSL",
+                        0.5644999999999936,
+                        0,
+                        0.16820000000000002,
+                        0.04
+                    ],
+                    "gradient": null
+                },
+                "assetData": null
+            }
+        },
+        "mobileSettings": {
+            "size": "cover"
+        },
+        "pin": 0,
+        "title": "Section6",
+        "selectedTheme": "Black"
+    },
+    {
+        "id": "204686C6-57BB-455A-8E4D-FE18A50A6187",
+        "inTemplate": false,
+        "orderIndex": 16,
+        "wrap": false,
+        "mobileDown": false,
+        "onHover": null,
+        "kind": "TEXT",
+        "left": 0,
+        "top": 3507,
+        "width": 1050,
+        "height": 56,
+        "relIn": {
+            "id": "EE7EF48E-7715-48FB-AD3A-576E36210922",
+            "top": 97,
+            "left": 0,
+            "right": null,
+            "bottom": -980
+        },
+        "relTo": null,
+        "relPage": null,
+        "relPara": null,
+        "verticalAlignment": "top",
+        "mobileHide": false,
+        "mobileSettings": {
+            "align": null,
+            "font": 0
+        },
+        "content": "<p class=\"textheading2\" style=\"text-align: center;\">Get in Touch</p>",
+        "text": "Get in Touch",
+        "styles": [
+            [
+                0,
+                12,
+                {
+                    "globalId": "C23572BE-EC57-49D1-8B25-6B388774A286",
+                    "globalName": "[heading.2]",
+                    "type": "web.data.styles.StyleText"
+                }
+            ]
+        ],
+        "paras": [
+            [
+                0,
+                12,
+                {
+                    "align": "center",
+                    "type": "web.data.styles.StylePara"
+                }
+            ]
+        ],
+        "links": [],
+        "themeOverrideColor": null,
+        "themeHighlightColor": null,
+        "themeShadowBlurRadius": 3,
+        "themeShadowColor": null,
+        "themeShadowOffsetX": 3,
+        "themeShadowOffsetY": 3,
+        "globalStyleId": "3163A11F-C780-41C5-B1D6-3B71DA0CFC9A"
+    },
+    {
+        "id": "F4A6F703-8923-41CD-BBAD-E298FCD3FEE1",
+        "inTemplate": false,
+        "orderIndex": 17,
+        "wrap": false,
+        "mobileDown": false,
+        "onHover": null,
+        "kind": "TEXT",
+        "left": 0,
+        "top": 3626,
+        "width": 470,
+        "height": 86,
+        "relIn": {
+            "id": "EE7EF48E-7715-48FB-AD3A-576E36210922",
+            "top": 216,
+            "left": 0,
+            "right": null,
+            "bottom": -831
+        },
+        "relTo": {
+            "id": "204686C6-57BB-455A-8E4D-FE18A50A6187",
+            "below": 60
+        },
+        "relPage": null,
+        "relPara": null,
+        "verticalAlignment": "top",
+        "mobileHide": false,
+        "mobileSettings": {
+            "align": null,
+            "font": 0
+        },
+        "content": "<p class=\"textheading3\"><span class=\"textheading3\">If you have any questions or concerns, we're always ready to help!</span></p>",
+        "text": "If you have any questions or concerns, we're always ready to help!",
+        "styles": [
+            [
+                0,
+                66,
+                {
+                    "globalId": "A67F9978-5B97-4E53-B282-01D774AEC9E6",
+                    "globalName": "[heading.3]",
+                    "type": "web.data.styles.StyleText"
+                }
+            ]
+        ],
+        "paras": [],
+        "links": [],
+        "themeOverrideColor": null,
+        "themeHighlightColor": null,
+        "themeShadowBlurRadius": 3,
+        "themeShadowColor": null,
+        "themeShadowOffsetX": 3,
+        "themeShadowOffsetY": 3,
+        "globalStyleId": "3163A11F-C780-41C5-B1D6-3B71DA0CFC9A"
+    },
+    {
+        "id": "FF33FEC5-D7D8-46D1-BC6F-E14184A8B51D",
+        "inTemplate": false,
+        "orderIndex": 21,
+        "stretch": null,
+        "wrap": false,
+        "onHover": null,
+        "kind": "CONTACTFORM",
+        "left": 550,
+        "top": 3626,
+        "width": 500,
+        "height": 407,
+        "relIn": {
+            "id": "EE7EF48E-7715-48FB-AD3A-576E36210922",
+            "top": 216,
+            "left": 550,
+            "right": null,
+            "bottom": -510
+        },
+        "relTo": {
+            "id": "204686C6-57BB-455A-8E4D-FE18A50A6187",
+            "below": 60
+        },
+        "relPage": null,
+        "relPara": null,
+        "subject": "",
+        "formElements": {
+            "email": {
+                "errorMessage": "Please enter a valid email address",
+                "inputType": "email",
+                "isRequired": true,
+                "name": "Email",
+                "values": null
+            },
+            "message": {
+                "errorMessage": "Please enter a valid message",
+                "inputType": "textarea",
+                "isRequired": true,
+                "name": "Message",
+                "values": null
+            },
+            "name": {
+                "errorMessage": "Please enter a valid name",
+                "inputType": "text",
+                "isRequired": true,
+                "name": "Name",
+                "values": null
+            }
+        },
+        "mobileSettings": {
+            "align": "justify"
+        },
+        "submitBtn": "Send",
+        "successMessage": "Thank you for your message",
+        "formElementsOrder": [
+            "name",
+            "email",
+            "message"
+        ],
+        "recipientEmail": "",
+        "styleButton": {
+            "globalId": "D0C8AC09-0EF1-4821-8586-2D70D3ED97B6",
+            "globalName": "[button.1]",
+            "type": "web.data.styles.StyleButton",
+            "text": {
+                "size": 15
+            }
+        },
+        "styleForm": {
+            "font": "Open Sans",
+            "fontSize": null,
+            "fontColor": [
+                "HSL",
+                0.5644999999999936,
+                0,
+                0.16820000000000002,
+                1
+            ]
+        },
+        "buttonThemeSelected": "primary",
+        "isCaptchaEnabled": true,
+        "captchaLang": "en_gb"
+    },
+    {
+        "id": "53EC09E9-C0D8-434B-A68F-2BB258EE7EDE",
+        "inTemplate": false,
+        "orderIndex": 18,
+        "wrap": false,
+        "onHover": null,
+        "kind": "ADDRESS",
+        "left": 0,
+        "top": 3742,
+        "width": 420,
+        "height": 24,
+        "relIn": {
+            "id": "EE7EF48E-7715-48FB-AD3A-576E36210922",
+            "top": 332,
+            "left": 0,
+            "right": null,
+            "bottom": -777
+        },
+        "relTo": {
+            "id": "F4A6F703-8923-41CD-BBAD-E298FCD3FEE1",
+            "below": 30
+        },
+        "relPage": null,
+        "relPara": null,
+        "generic": {
+            "customPrefixText": "Address",
+            "horizontalAlignment": "left",
+            "iconSize": 30,
+            "iconTextSpacing": 11,
+            "mobileFontSize": null,
+            "mobileHorizontalAlignment": null,
+            "mobileIconSize": null,
+            "showCustomTitleFirst": false,
+            "showIcon": false,
+            "showOnOneLine": true,
+            "textStyle": {
+                "bold": null,
+                "color": null,
+                "fontFamily": null,
+                "fontSize": null,
+                "italic": null,
+                "letterSpacing": 0,
+                "lineHeight": null,
+                "prefixBold": true,
+                "prefixCase": null,
+                "prefixItalic": null,
+                "prefixUnderline": null,
+                "underline": null,
+                "valueCase": null
+            },
+            "themeOverrideColor": null
+        },
+        "specific": {
+            "placeholder": {
+                "addressName": "Business title",
+                "addressStreetAddress": "Street address",
+                "addressCity": "City",
+                "addressZip": "Zip code",
+                "addressAreaState": "State",
+                "addressAreaProvince": "Province",
+                "addressCountry": "Country"
+            },
+            "showCountry": false,
+            "showWebsiteTitleBeforeAddress": true
+        }
+    },
+    {
+        "id": "5BFBFD95-3FB8-4854-BED3-D6C6A72C9066",
+        "inTemplate": false,
+        "orderIndex": 19,
+        "wrap": false,
+        "onHover": null,
+        "kind": "PHONE",
+        "left": 0,
+        "top": 3796,
+        "width": 250,
+        "height": 24,
+        "relIn": {
+            "id": "EE7EF48E-7715-48FB-AD3A-576E36210922",
+            "top": 386,
+            "left": 0,
+            "right": null,
+            "bottom": -723
+        },
+        "relTo": {
+            "id": "53EC09E9-C0D8-434B-A68F-2BB258EE7EDE",
+            "below": 30
+        },
+        "relPage": null,
+        "relPara": null,
+        "generic": {
+            "customPrefixText": "Phone",
+            "horizontalAlignment": "left",
+            "iconSize": 30,
+            "iconTextSpacing": 11,
+            "mobileFontSize": null,
+            "mobileHorizontalAlignment": null,
+            "mobileIconSize": null,
+            "showCustomTitleFirst": false,
+            "showIcon": false,
+            "showOnOneLine": true,
+            "textStyle": {
+                "bold": null,
+                "color": null,
+                "fontFamily": null,
+                "fontSize": null,
+                "italic": null,
+                "letterSpacing": 0,
+                "lineHeight": null,
+                "prefixBold": true,
+                "prefixCase": null,
+                "prefixItalic": null,
+                "prefixUnderline": null,
+                "underline": null,
+                "valueCase": null
+            },
+            "themeOverrideColor": null
+        },
+        "specific": {
+            "placeholderText": "+44 1234 567890"
+        }
+    },
+    {
+        "id": "C58BBF11-BE48-4E8D-A4B3-8951995D09EB",
+        "inTemplate": false,
+        "orderIndex": 20,
+        "wrap": false,
+        "onHover": null,
+        "kind": "EMAIL",
+        "left": 0,
+        "top": 3850,
+        "width": 250,
+        "height": 24,
+        "relIn": {
+            "id": "EE7EF48E-7715-48FB-AD3A-576E36210922",
+            "top": 440,
+            "left": 0,
+            "right": null,
+            "bottom": -669
+        },
+        "relTo": {
+            "id": "5BFBFD95-3FB8-4854-BED3-D6C6A72C9066",
+            "below": 30
+        },
+        "relPage": null,
+        "relPara": null,
+        "generic": {
+            "customPrefixText": "Email",
+            "horizontalAlignment": "left",
+            "iconSize": 30,
+            "iconTextSpacing": 11,
+            "mobileFontSize": null,
+            "mobileHorizontalAlignment": null,
+            "mobileIconSize": null,
+            "showCustomTitleFirst": false,
+            "showIcon": false,
+            "showOnOneLine": true,
+            "textStyle": {
+                "bold": null,
+                "color": null,
+                "fontFamily": null,
+                "fontSize": null,
+                "italic": null,
+                "letterSpacing": 0,
+                "lineHeight": null,
+                "prefixBold": true,
+                "prefixCase": null,
+                "prefixItalic": null,
+                "prefixUnderline": null,
+                "underline": null,
+                "valueCase": null
+            },
+            "themeOverrideColor": null
+        },
+        "specific": {
+            "placeholderText": "your@email.com"
+        }
+    },
+    {
+        "id": "243AD92F-C02E-4109-BAC6-DFF8D9626167",
+        "inTemplate": false,
+        "orderIndex": 22,
+        "wrap": false,
+        "onHover": null,
+        "kind": "SOCIAL_LINKS",
+        "left": 0,
+        "top": 3904,
+        "width": 136,
+        "height": 32,
+        "relIn": {
+            "id": "EE7EF48E-7715-48FB-AD3A-576E36210922",
+            "top": 494,
+            "left": 0,
+            "right": null,
+            "bottom": -607
+        },
+        "relTo": {
+            "id": "C58BBF11-BE48-4E8D-A4B3-8951995D09EB",
+            "below": 30
+        },
+        "relPage": null,
+        "relPara": null,
+        "colorType": "DARK",
+        "themeColorType": "THEME_DEFAULT",
+        "size": 32,
+        "spacing": 20,
+        "mobileSize": 32,
+        "mobileHorizontalAlignment": "left",
+        "styleType": "CIRCLE_KNOCKOUT",
+        "links": [
+            {
+                "id": "92A149A0B02C41E39CD18F4EB4192BD0$",
+                "kind": "FACEBOOK"
+            },
+            {
+                "id": "BE5E5D1DA8314BEB9342778148B9D3B1$",
+                "kind": "TWITTER"
+            },
+            {
+                "id": "F2A0527EF355499393555E2B501071CD$",
+                "kind": "INSTAGRAM"
+            }
+        ]
+    },
+    {
+        "id": "48934943-C5AE-4089-BB85-6418E3CEC11F",
+        "inTemplate": false,
+        "orderIndex": 0,
+        "stretch": true,
+        "wrap": false,
+        "onHover": null,
+        "kind": "WIDGETS_GOOGLEMAPS",
+        "left": -563,
+        "top": 4113,
+        "width": 2176,
+        "height": 430,
+        "relIn": {
+            "id": "EE7EF48E-7715-48FB-AD3A-576E36210922",
+            "top": 703,
+            "left": 0,
+            "right": null,
+            "bottom": 0
+        },
+        "relTo": {
+            "id": "FF33FEC5-D7D8-46D1-BC6F-E14184A8B51D",
+            "below": 80
+        },
+        "relPage": null,
+        "relPara": null,
+        "addressLocation": {
+            "lat": 55.6760968,
+            "lng": 12.5683371
+        },
+        "addressText": "Copenhagen, Denmark",
+        "addressUrl": "https://maps.google.com/?q=Copenhagen,+Denmark&ftid=0x4652533c5c803d23:0x4dd7edde69467b8",
+        "locale": "en",
+        "zoom": 14,
+        "source": "input",
+        "mobileHide": false
+    }
+]
